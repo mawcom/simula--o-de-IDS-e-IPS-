@@ -1,0 +1,22 @@
+Sistemas de monitoramento e defesa de movimentação de dados passiva e ativa
+
+IDS (Intrusion Detection System), é um sistema de monitoramento de dados e pacotes que serve como ferramenta de visualização para a defesa de uma rede. Ele monitora atividades maliciosas e gera alertas para o responsável do monitoramento.
+
+O IDS se divide em duas categorias:
+	-NIDS (Network-based IDS): Monitora o tráfego de rede para identificar comportamentos anormais.
+	-HIDS (Host-based IDS): Monitora atividades em um dispositivo específico (como alterações de arquivos, processos suspeitos, etc.).
+
+A sua forma de atuação depende de como ele foi configurado, ele pode se baseando em anomalias de dados, ou seja, quando um dado é muito diferente do que é normalmente transitado naquela rede ou por meio de assinatura de dados.
+
+IPS (Intrusion Prevetion System), semelhante ao IDS, o IPS bloqueia e previne diretamente as atividade maliciosas antes que elas prejudique diretamente a rede ou os sistemas.
+
+Os IDS são categorizados em:
+
+	-Network-based IPS (NIPS): Fica posicionado na rede e monitora todo o tráfego.
+
+	-Wireless IPS (WIPS): Foca em redes sem fio.
+
+	-Host-based IPS (HIPS): Instalado em servidores ou computadores específicos.
+
+IPS's são feitos para agir enquanto os problemas são detectados sendo um protetor e detector, já o IDS é um analisador e detector 
+
